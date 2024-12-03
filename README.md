@@ -1,2 +1,2 @@
-Tältä sivulta löytää laskimen koodin, mikä on tehty JavaScriptiä, CSS ja HTML:llä käyttäen.
-Laskin löytyy osoitteesta https://emppuzz.github.io/
+From this website you can found calculator which has been done by using JavaScript, CSS ja HTML.
+Calculator can be found here: https://emppuzz.github.io/
